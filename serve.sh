@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd static
+cd site
 python -m SimpleHTTPServer
